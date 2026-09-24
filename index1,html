@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Akaza - Demon Slayer</title>
+<link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="estilo/style.CSS">
+</head>
+<body>
+<header>
+<h1>Curiosidades de Demon Slayer</h1>
+<p>Tudo aquilo que você sempre quis saber sobre o universo dos demônios e caçadores, em um único lugar</p>
+</header>
+<nav>
+<a href="#">Home</a>
+<a href="#">Notícias</a>
+<a href="#">Contato</a>
+</nav>
+<main>
+<article>
+<h1>Quem é Akaza? O Lua Superior Três</h1>
+
+<p>No universo de <strong>Demon Slayer (Kimetsu no Yaiba)</strong>, poucos antagonistas são tão marcantes e respeitados quanto <strong>Akaza</strong>. Ocupando a posição de <em>Lua Superior Três</em>, ele é um dos demônios mais poderosos sob o comando de Muzan Kibutsuji, conhecido por sua busca incansável pela força perfeita e seu estilo de luta focado em artes marciais puras.</p>
+
+<h2>O Estilo de Luta e Ideologia</h2>
+
+<p>Diferente de muitos outros demônios que usam armas ou feitiçarias complexas, Akaza utiliza uma Arte de Sangue Demoníaco baseada no combate corpo a corpo, combinada com técnicas de artes marciais (Soryu). Ele respeita profundamente os adversários fortes e costuma oferecer a eles a oportunidade de se tornarem demônios para que possam aperfeiçoar suas habilidades para sempre.</p>
+
+<picture>
+<source media="(min-width:670px)" srcset="">
+<img src="https://static.wikia.nocookie.net/liberproeliis/images/7/70/Akaza_Full_Body_Design_25_29.webp/revision/latest/scale-to-width/360?cb=20230724035105&path-prefix=pt-br" alt="">
+<img src="" alt="">
+</picture>
+
+
+
+<p>Essa mentalidade de valorizar apenas os fortes e desprezar os fracos esconde uma tragédia do seu passado como humano, quando ainda era conhecido pelo nome de Hakuji.</p>
+
+<h2>A Origem Humana: A História de Hakuji</h2>
+
+<p>Antes de ser transformado por Muzan, Akaza era um humano chamado Hakuji. Sua vida foi marcada por perdas profundas, pobreza e sofrimento. Depois de perder todos a quem amava e falhar em proteger aqueles que lhe importavam, ele sucumbiu ao ódio, o que acabou levando-o a ser transformado em demônio e esquecer suas memórias humanas.</p>
+<img src="https://preview.redd.it/shame-akaza-couldnt-pass-down-his-eye-genetics-v0-1z8f58ojvkpf1.jpg?width=640&crop=smart&auto=webp&s=ca4a0954e2eef89dd60c6b526a744aabde5e7529" alt="Akaza" width="300">
+
+
+
+
+
+
+<img src="imagens/thumb-1920-1398046.jpg" alt="Akaza" width="300">
+
+</article>
+</main>
+</body>
+</html>
